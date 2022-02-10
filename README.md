@@ -113,3 +113,21 @@ free	Gives free RAM on your system
 - s	Substitute one character under cursor continue to insert
 -S	Substitute entire line and begin to insert at the beginning of the line
 - ~	Change case of individual character
+
+
+# LINUX PATH CHEAT SHEET
+- /bin : user binaries
+- /sbin : system binaries 
+- /etc : configuration files 
+- /dev : devices files 
+- /proc : process iformation
+- /var : variable files 
+- /tmp :temporary files
+- /usr : user system information
+- /boot : boot loader files
+- /lib : system libraries 
+- /home : home directory
+- /opt : optional add on apps 
+- /media :removable devices
+- /srv : service data 
+- /mnt :mount directory 
